@@ -1,0 +1,57 @@
+DUCKY_LANG FR
+DELAY 300
+GUI r
+DELAY 300
+STRING https://matias.ma/nsfw/
+ENTER
+DELAY 2000
+TAB
+DELAY 300
+ENTER
+DELAY 300
+GUI r
+DELAY 300
+STRING notepad.exe
+DELAY 300
+ENTER
+DEFAULT_CHAR_DELAY 0.01
+DELAY 300
+STRING              @      @
+ENTER
+STRING      / \     { _____}      / \
+ENTER
+STRING    /  |  \___/*******\___/  |  \
+ENTER
+STRING   (   I  /   ~   '   ~   \  I   )
+ENTER
+STRING    \  |  |   0       0   |  |  /
+ENTER
+STRING      \   |       A       |   /
+ENTER
+STRING        \__    _______    __/
+ENTER
+STRING           \_____________/
+ENTER
+STRING     _-------*         *-------_
+ENTER
+STRING    /  /---     SATCOM     ---\  \
+ENTER
+STRING  /  /     (    System   )     \  \
+ENTER
+STRING {  (     (    Gremlin!   )     )  }
+ENTER
+STRING  \  \    |               |    /  /
+ENTER
+STRING    \  \  |               |  /  /
+ENTER
+STRING     **** |               | ****
+ENTER
+STRING    //|\\  \_____________/  //|\\
+ENTER
+STRING    *         '*** ***'         *
+ENTER
+STRING   ***.       .*** ***.       .***
+ENTER
+STRING   '*************' '*************'
+ENTER
+STRING Attention la prochaine fois pas de cadeau !
