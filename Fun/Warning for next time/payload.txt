@@ -2,15 +2,6 @@ DUCKY_LANG FR
 DELAY 300
 GUI r
 DELAY 300
-STRING https://matias.ma/nsfw/
-ENTER
-DELAY 2000
-TAB
-DELAY 300
-ENTER
-DELAY 300
-GUI r
-DELAY 300
 STRING notepad.exe
 DELAY 300
 ENTER
@@ -55,3 +46,13 @@ ENTER
 STRING   '*************' '*************'
 ENTER
 STRING Attention la prochaine fois pas de cadeau !
+DELAY 300
+GUI r
+DELAY 300
+STRING https://matias.ma/nsfw/
+ENTER
+DELAY 5000
+TAB
+DELAY 300
+ENTER
+DELAY 300
